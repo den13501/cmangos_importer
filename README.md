@@ -33,5 +33,5 @@ If you have ideas for improvements or find bugs, please open an issue, as I'm su
 
 Big thanks to https://github.com/slavanorm/ for his major refactor of this script.
 
-# 从魔兽世界经典导出玩家数据并将数据重新导入CMaNGOS的项目
+# 支援從魔獸世界經典版匯出玩家人物數據並匯入CMaNGOS的專案
 
